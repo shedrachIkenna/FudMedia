@@ -11,6 +11,7 @@ import { fileURLToPath } from 'url'
 import { authRoutes } from './routes/auth.js'
 import mongoose from 'mongoose'
 import { register } from './controllers/auth.js'
+import { verifyToken } from './middleware/auth.js'
 
 
 // Configurations
