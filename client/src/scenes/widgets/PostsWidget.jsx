@@ -39,6 +39,7 @@ const PostsWidget = ({ userId, isProfile = false }) => {
 
   return (
     <>
+    <h1>Shedrach</h1>
       {posts.map(
         ({
           _id,
