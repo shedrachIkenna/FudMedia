@@ -262,11 +262,11 @@ export const posts = [
   {
     _id: new mongoose.Types.ObjectId(),
     userId: userIds[7],
-    firstName: "Aliyu",
-    lastName: "Sunusi",
-    location: "Washington, DC",
+    firstName: "Dr Muhammad Sirajo",
+    lastName: "Aliyu",
+    location: "Dutse, Nigeria",
     description:
-      "For the last time, I'm going to play video games now. I'm tired of typing. I'm going to play video games now.",
+      "HoD cybersecurity, Faculty of computing. Federal University Dutse",
     picturePath: "l1.jpg",
     userPicturePath: "l1.jpg",
     likes: new Map([
